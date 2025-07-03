@@ -1,2 +1,2 @@
 # Power-BI-Projects
-This repository is for only the Power BI Projects.
+This repository is only for the Power BI Projects.
